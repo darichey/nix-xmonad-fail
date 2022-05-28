@@ -39,6 +39,7 @@ executable haskell-template
     , text
     , time
     , with-utf8
+    , xmonad
 
   mixins:
     base hiding (Prelude),
